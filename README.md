@@ -1,6 +1,6 @@
 # EventoEMS - Event Management System
 
-Introducing our Event Management System, a solution developed as part of our final year group project, designed to streamline campus event planning, registration, and ticket booking. I played a key role as the architect, creating the user interface where I incorporated modern design principles and prioritized user experience. We are developing the system using the MERN stack (MongoDB, Express.js, React.js, Node.js), and we are utilizing the agile Scrum methodology for efficient development.
+EventoEMS is a comprehensive Event Management System designed to streamline the process of organizing, registering, and managing campus events. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this system leverages modern web technologies to provide a seamless experience for both event organizers and participants. The project follows the Agile Scrum methodology to ensure iterative development and continuous improvement. By integrating tools such as JWT for secure authentication and QR code generation for efficient ticketing, EventoEMS enhances event accessibility, simplifies approval workflows, and improves overall user engagement.
 
 **Skills:** *Figma · Ui/ux · React.js · MongoDB · Node.js · Express.js · Requirements Analysis · User Interface Design*
 
